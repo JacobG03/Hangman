@@ -11,7 +11,7 @@ import webbrowser
 
 """
 A Hangman game with a few cool options
-made as a fun project to test my own skills. As I'm still on the learning path :)
+made as a fun project to test my own skills.
 Made by: Jacob Gluszek
 20/09/2020
 Disclaimer! English is not my main language..
