@@ -10,7 +10,7 @@ If one doesn't know how to play this game, there is an option to choose in the g
 ### Disclaimer
 Some of the characters used let's say in the 'Main Menu' may or may not display correctly. Everything is still readable and working, it's just not too pleasing visually.
 
-# Example Pictures
+## Example Pictures
 <span>
 <img src="https://github.com/JacobG03/Hangman/blob/master/examples/example1.png" />
 <img src="https://github.com/JacobG03/Hangman/blob/master/examples/example2.png" />
