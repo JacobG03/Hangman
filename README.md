@@ -1,5 +1,5 @@
 # Hangman
-A console hangman game with ASCII art and options like having a saved high score, changing usernames, buying help for coins earned by winning, the ability to see the definition of a word.
+A Console Hangman game with ASCII art and options like having a saved high score, changing usernames, buying help for coins earned by winning, the ability to see the definition of a word.
 
 ## Difficulty
 The words include basic english words as well as some of the hardest words to guess in a game like Hangman. A player can only miss a letter 6 times.
